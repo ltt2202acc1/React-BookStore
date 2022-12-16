@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Trang chủ",
+    "path": "/"
+  },
+  {
+    "name": "Sản phẩm",
+    "path": "/products/all",
+    "menuLv2": [
+      {
+        "name": "Văn học",
+        "path": "/products/van-hoc",
+        "menuLv3": [
+          {
+            "name": "Tiểu thuyết",
+            "path": "/products/van-hoc/tieu-thuyet"
+          },
+          {
+            "name": "Truyện ngắn",
+            "path": "/products/van-hoc/truyen-ngan"
+          },
+          {
+            "name": "Light Novel",
+            "path": "/products/van-hoc/light-novel"
+          },
+          {
+            "name": "Phóng sự - kí sự ",
+            "path": "/products/van-hoc/phong-su-ki-su"
+          }
+        ]
+      },
+      {
+        "name": "Kinh tế",
+        "path": "/products/kinh-te",
+        "menuLv3": [
+          {
+            "name": "Nhân vật - Bài học kinh doanh",
+            "path": "/products/kinh-te/nhat-vat-bai-hoc-kinh-doanh"
+          },
+          {
+            "name": "Quản trị - Lãnh đạo",
+            "path": "/products/kinh-te/quan-tri-lanh-dao"
+          },
+          {
+            "name": "Marketing - Bán hàng",
+            "path": "/products/kinh-te/marketing-ban-hang"
+          },
+          {
+            "name": "Phân tích kinh tế",
+            "path": "/products/kinh-te/phan-tich-kinh-te"
+          }
+        ]
+      },
+      {
+        "name": "Tâm lý - kĩ năng sống",
+        "path": "/products/tam-ly-ki-nang-song",
+        "menuLv3": [
+          {
+            "name": "Kĩ năng sống",
+            "path": "/products/tam-ly-ki-nang-song/ki-nang-song"
+          },
+          {
+            "name": "Rèn luyện nhân cách",
+            "path": "/products/tam-ly-ki-nang-song/ren-luyen-nhan-cach"
+          },
+          {
+            "name": "Tâm lý",
+            "path": "products/tam-ly-ki-nang-song/tam-ly"
+          },
+          {
+            "name": "Sách cho tuổi mới lớn",
+            "path": "products/tam-ly-ki-nang-song/sach-cho-tuoi-moi-lon"
+          }
+        ]
+      },
+      {
+        "name": "Sách thiếu nhi",
+        "path": "/products/thieu-nhi",
+        "menuLv3": [
+          {
+            "name": "Manga - Comic",
+            "path": "/products/thieu-nhi/manga-comic"
+          },
+          {
+            "name": "Kiến thức bách khoa",
+            "path": "/products/thieu-nhi/kien-thuc-bach-khoa"
+          },
+          {
+            "name": "Sách tranh kĩ năng sống",
+            "path": "/products/thieu-nhi/sach-tranh-ki-nang-song"
+          },
+          {
+            "name": "Tô màu, luyện chữ",
+            "path": "/products/thieu-nhi/kien-thuc-bach-khoa/to-mau-luyen-chu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tin tức",
+    "path": "/news"
+  },
+  {
+    "name": "Liên hệ",
+    "path": "/contact"
+  },
+  {
+    "name": "Về chúng tôi",
+    "path": "/about"
+  }
+]
